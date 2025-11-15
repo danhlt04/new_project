@@ -7,6 +7,7 @@ int main() {
 	std::cout.tie(NULL);
 
 	std::cout << "Hello World\n";
+	std::cout << "I am a newbie\n";
 	
 	return 0;
 } 
